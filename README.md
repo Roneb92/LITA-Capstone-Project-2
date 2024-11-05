@@ -120,8 +120,8 @@ Group By Region
 
 
 ### Power BI Visuals used for Analysis
+![Customer BI](https://github.com/user-attachments/assets/ac46f9e3-6c21-473e-9460-9033040ff1ef)
 
-![Customer BI](https://github.com/user-attachments/assets/9dd18a60-dcea-4d2f-a023-f8c0b0670393)
 
 
    
