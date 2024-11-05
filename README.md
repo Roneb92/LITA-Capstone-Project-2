@@ -106,23 +106,19 @@ Group By Region
 
 ```Select* From[dbo].[CUSTOMER_DATA_PROJECT]
 
--8-----Find the Total Number of Active and Canceled Subscriptions----
+-8   Find the Total Number of Active and Canceled Subscriptions----
 
-	- ```Select
+	- Select
 	Sum(Case When Canceled = 0 Then 1 Else 0 End)
 	As ActiveSubscriptions,
 	Sum(Case When Canceled = 1 Then 1 Else 0 End)
 	As CanceledSubscriptions
 	FROM [dbo].[CUSTOMER_DATA_PROJECT]
 	Group By CustomerID
-	
 
+### Data Visualization
 
-
-### Power BI Visuals used for Analysis
-![Customer BI](https://github.com/user-attachments/assets/ac46f9e3-6c21-473e-9460-9033040ff1ef)
-
-
+![Customer BI](https://github.com/user-attachments/assets/c861bce0-cd48-4876-b7eb-48cf12a804df)
 
    
 
