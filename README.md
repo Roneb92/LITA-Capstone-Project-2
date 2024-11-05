@@ -30,6 +30,12 @@ The following operations were performed at the initial phase of the Data
  2. Handling missing variables
  3. Data cleaning and formatting
 
+### Project Objectives
+The objectives of this project are
+1. To track subscription types
+2. To identify key trends in cancellations and renewal
+3. To understand customer behaviour
+
 ### Data Analysis
 '''
 Some of the basic codes, queries and DAX functions used during analysis are below
@@ -113,11 +119,9 @@ Group By Region
 
 
 
-### Power BI Visuals and Tables used for Analysis
+### Power BI Visuals used for Analysis
 
-![Sales BI](https://github.com/user-attachments/assets/7cbdc7a5-308d-499c-a96e-62181fb4a503)
-
-
+![Customer BI](https://github.com/user-attachments/assets/9dd18a60-dcea-4d2f-a023-f8c0b0670393)
 
 
    
